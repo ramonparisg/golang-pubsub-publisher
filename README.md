@@ -1,6 +1,6 @@
 # Using golang to publish on GCP PubSub
 
-This is a small snippet to publish an message on GCP Pubsub
+This is a small snippet to publish a message on GCP Pubsub
 
 
 
